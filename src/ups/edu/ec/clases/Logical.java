@@ -12,7 +12,7 @@ package ups.edu.ec.clases;
 public class Logical {
 
     public String integrante1() {
-        return "Integrante 1";
+        return "Este método ha sido modificado por el Est. Bryam Gabriel Mora Lituma";
     }
 
     public String integrante2() {
