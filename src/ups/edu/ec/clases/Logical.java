@@ -16,6 +16,6 @@ public class Logical {
     }
 
     public String integrante2() {
-        return "Integrante 2";
+        return "Este método ha sido modificado por el Est. Luis Fernando Sanchez Sucuzhañay";
     }
 }
